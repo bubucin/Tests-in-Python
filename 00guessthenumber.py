@@ -1,3 +1,6 @@
+# Code by @bubucin #
+# NOTE: Rework in a future #
+
 import random as r
 
 def guess():
